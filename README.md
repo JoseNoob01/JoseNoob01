@@ -46,9 +46,9 @@
 
   <p align="center">
     <a href="https://github.com/JoseNoob01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseNoob01&show_icons=true&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gantzbkp&show_icons=true&theme=tokyonight" />
     <a/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseNoob01&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gantzbkp&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </p>
  
   ![Snake animation](https://github.com/JoseNoob01/JoseNoob01/blob/output/github-contribution-grid-snake.svg) 
