@@ -42,4 +42,4 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gantzbkp&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </p>
  
-  ![Snake animation](https://github.com/JoseNoob01/JoseNoob01/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/gantzbkp/gantzbkp/blob/output/github-contribution-grid-snake.svg) 
