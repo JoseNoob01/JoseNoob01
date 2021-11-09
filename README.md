@@ -19,6 +19,7 @@
  <h3 align="center"> :rocket:&nbsp;Skills:</h3>
    
   <div align="center"><br>
+  <a href="https://github.com/gantzbkp">
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daniel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Daniel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -27,25 +28,15 @@
   <img align="center" alt="-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="BS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  </div>
   
-  
-</div>
-
-
-<h3 align="center">:gear:&nbsp;Tools:</h3>
-
- <div align="center"><br>
-  <img align="center" alt="-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="-intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-      
+     
 </div>
 
 <br> <br> 
 
   <p align="center">
-    <a href="https://github.com/JoseNoob01">
+    <a href="https://github.com/gantzbkp">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gantzbkp&show_icons=true&theme=tokyonight" />
     <a/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gantzbkp&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
